@@ -1,2 +1,2 @@
 # numpy
-https://radhika-raghuwanshi.github.io/radhika/
+https://radhika-raghuwanshi.github.io/numpy/
